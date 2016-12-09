@@ -9,7 +9,7 @@ import java.util.Map;
  */
 // -Dfml.coreMods.load=me.modmuss50.pong.PongASM
 @IFMLLoadingPlugin.Name(value = "Pong ASM")
-@IFMLLoadingPlugin.MCVersion(value = "1.9.4")
+@IFMLLoadingPlugin.MCVersion(value = "1.10.2")
 public class PongASM implements IFMLLoadingPlugin {
 
 

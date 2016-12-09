@@ -15,9 +15,9 @@ import org.objectweb.asm.tree.*;
 public class PongClassTransformer implements IClassTransformer {
 
     String className = "net.minecraft.client.gui.GuiPlayerTabOverlay";
-    String obofClassName = "bdn";
+    String obofClassName = "bga";
     String descriptor = "(IIILnet/minecraft/client/network/NetworkPlayerInfo;)V";
-    String obofDescriptor = "(IIILbkt;)V";
+    String obofDescriptor = "(IIILbnp;)V";
     String methordName = "drawPing";
     String obofMethordName = "a";
 
